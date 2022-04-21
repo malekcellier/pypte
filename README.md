@@ -1,0 +1,2 @@
+# pypte
+Python Project Template
